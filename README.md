@@ -6,8 +6,12 @@ I build Python and .NET applications, with an interest in backend engineering, a
 
 ## Current work
 
-**KavinoraOS - Kavinora Technologies Ltd**  
-A local-first, web-first AI platform in active development, built around workspace-based chat and task execution. My work covers a FastAPI backend, React/Next.js dashboard, PostgreSQL persistence and Redis-backed services, alongside authentication, workspace isolation, approvals, audit records and automated checks. The product repository is private.
+**KavinoraOS — personal AI in development**  
+I began developing KavinoraOS independently in December 2025 and registered Kavinora Technologies Ltd in May 2026. Chinni is the conversational interface for a connected personal AI experience across web, desktop and mobile, with requests and answers through chat or voice.
+
+My work spans Python/FastAPI services, a Next.js web app, an Electron/React desktop app and an Expo/React Native mobile app. Shared TypeScript code supports APIs, authentication and real-time connections, alongside PostgreSQL, Redis, workspace isolation, persistent task state, approvals and outcome verification.
+
+The product is still in development. Seamless task continuation between devices and cloud desktop fallback when a local desktop is unavailable are goals awaiting full end-to-end verification. The product repository remains private.
 
 ## Selected projects
 
@@ -22,7 +26,7 @@ Built a Django/MySQL marketplace for scrap materials and handmade items, with bu
 
 ## Technologies I work with
 
-- **Applications:** Python, C#/.NET, TypeScript, FastAPI, ASP.NET Core, React, Next.js, Django
+- **Applications:** Python, C#/.NET, TypeScript, FastAPI, ASP.NET Core, React, Next.js, Electron, React Native, Expo, Django
 - **Data:** SQL, PostgreSQL, Redis, SQLite, Pandas, NumPy, GeoPandas, Scikit-learn
 - **Delivery and quality:** Git, GitHub Actions, Docker, Linux, Nginx, pytest, Vitest, Playwright
 
