@@ -7,7 +7,7 @@ I build Python and .NET applications, with an interest in backend engineering, a
 ## Current work
 
 **KavinoraOS — personal AI in development**  
-I began developing KavinoraOS independently in December 2025 and registered Kavinora Technologies Ltd in May 2026. Chinni is the conversational interface for a connected personal AI experience across web, desktop and mobile, with requests and answers through chat or voice.
+I began developing KavinoraOS independently in December 2025 and registered Kavinora Technologies Ltd in May 2026. Chinni is the conversational interface for a connected personal AI experience for everyday tasks and business work across web, desktop and mobile, with requests and answers through chat or voice.
 
 My work spans Python/FastAPI services, a Next.js web app, an Electron/React desktop app and an Expo/React Native mobile app. Shared TypeScript code supports APIs, authentication and real-time connections, alongside PostgreSQL, Redis, workspace isolation, persistent task state, approvals and outcome verification.
 
